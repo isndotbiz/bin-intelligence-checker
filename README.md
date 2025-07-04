@@ -1,0 +1,1 @@
+# bin-intelligence-checker
