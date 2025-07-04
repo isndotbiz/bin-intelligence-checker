@@ -1,5 +1,3 @@
-# bin-intelligence-checker
-
 # BIN Intelligence & 3DS Enforcement Checker
 
 A comprehensive Streamlit web application for analyzing Bank Identification Numbers (BINs) and 3D Secure (3DS) enforcement to identify payment security risks and fraud patterns.
